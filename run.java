@@ -1,7 +1,4 @@
-package odev;
-
-import java.util.Arrays;
-
+//Coded by osman tosun
 class Node {
 
     int data;
@@ -139,3 +136,4 @@ public class run {
         printArray(array);
     }
 }
+//Coded by osman tosun
