@@ -28,7 +28,6 @@ class LinkedList {
             es++;
         }
     }
-
     public int[] toArray() {
         Node tmp = head;
         int i = 0, arrLen = 0;
